@@ -2,7 +2,7 @@
 
 ## To do
 ```
-	- ###### Maintenance Form
+	Maintenance Form
 		- I was tasked to create a dynamic webpage that would allow a user to
 		record and add configurations that will be used for the website's
 		front end. This was the only task that was revealed for this module.
@@ -14,11 +14,11 @@
 
 ## Done
 ```
-	  ####### Maintenance Form View
+	 Maintenance Form View
 	  	- It took about 1 hour to do this task. The page should be able to display
 	  	what has been recorded in the database.
 
-	  ###### Add input data to database 
+	 Add input data to database 
 	  	- It took about 2 - 3 hours to complete this task. The page should be able to
 	  	record user input from the form and the default values, in case the user did
 	  	not put any input.
@@ -27,10 +27,10 @@
 
 ## To be done
 ```
-	###### CSS
+	CSS
 		- The webpage I have created has no design elements yet.
 
-	###### Error Catching / User Input Validation
+	Error Catching / User Input Validation
 		- Add input to database has yet to validate the user input. 
 ```
 
